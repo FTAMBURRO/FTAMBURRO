@@ -5,7 +5,7 @@
 # Facundo Tamburro
 
 <p align='center'>
-  Programador Apasionado | Full Stack Developer | Buenos Aires, Argentina 🇦🇷
+  Técnico en Programación de Computadores | Full Stack Developer | Buenos Aires, Argentina 🇦🇷
 </p>
 
 ---
