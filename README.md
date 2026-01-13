@@ -22,7 +22,7 @@
 - 🔭 Trabajo actualmente en la **Universidad de Buenos Aires**, desarrollando y manteniendo sistemas académicos y administrativos  
 - 👯 Busco colaborar en **proyectos de desarrollo de software**
 - 🌱 Aprendizaje continuo de nuevas tecnologías y buenas prácticas
-- 💬 Consultame sobre **backend, frontend, bases de datos y desarrollo web**
+- 💬 Consultame sobre **backend, frontend, bases de datos y APIs**
 - 📍 Buenos Aires, Argentina
 
 ---
@@ -36,7 +36,7 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60"/><br>C#</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="60"/><br>.NET</td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/visual-basic-6.svg" width="48"/><br>VB.NET</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/VB.NET_Logo.svg" width="48"/><br>VB.NET</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48"/><br>C</td>
   </tr>
 
@@ -56,7 +56,7 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br>FastAPI</td>
     <td align="center" width="96"><img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw" width="48"/><br>Spring Boot</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="48"/><br>WordPress</td>
-    <td align="center" width="96"><img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce.svg" width="48"/><br>WooCommerce</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/WooCommerce_logo.svg" width="48"/><br>WooCommerce</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"/><br>Docker</td>
   </tr>
 
@@ -76,22 +76,6 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
   </tr>
 </table>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FTAMBURRO&theme=tokyonight&hide_border=true&show_icons=true&icon_color=79ff97&title_color=79ff97" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FTAMBURRO&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTAMBURRO&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
 
 ---
 
