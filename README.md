@@ -78,10 +78,6 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
@@ -90,16 +86,20 @@
       <br>NodeJS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
+        <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt=".NET" />
+      <br>.NET
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="65" height="65" />
+      <br>SQL Server
     </td>
   </tr>
   <tr>
@@ -116,14 +116,6 @@
       <br>Git
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=less" width="48" height="48" alt="Less" />
-      <br>Less
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48" />
-      <br>Sass
-    </td>
-   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
       <br>FastAPI
     </td>
@@ -135,16 +127,8 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
-      <br>NextJS
-    </td>
   </tr>
- <tr>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
-      <br>Angular
-    </td>  
+ <tr>  
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
@@ -153,30 +137,14 @@
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="Pytorch" />
-      <br>Pytorch
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
       <br>Nginx
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Go
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby
-      </td>
  </tr>
 </table>
 
@@ -186,7 +154,7 @@
 
 <p align="center">
   <a href="https://github.com/FTAMBURRO">
-    <img src="https://github-readme-stats.vercel.app/api?username=FTAMBURRO&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FTAMBURRO&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -198,7 +166,7 @@
 
 <p align="center">
   <a href="https://github.com/FTAMBURRO">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTAMBURRO&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTAMBURRO&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide_title=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -220,29 +188,17 @@
 
 ---
 
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <a href="https://github.com/FTAMBURRO">
-    <img src="https://github-profile-trophy.vercel.app/?username=FTAMBURRO&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## 🤝 Conectá Conmigo
 
 <p align='left'>
   <a href='https://www.linkedin.com/in/facundo-tamburro' target='_blank'>
     <img align='center' src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png' alt='LinkedIn' height='40' width='40' />
   </a>
+  &nbsp;&nbsp;
+  <a href='mailto:tamburrofacundo@gmail.com' target='_blank'>
+    <img align='center' src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' alt='Gmail' height='40' width='40' />
+  </a>
 </p>
-
----
-
-## 👀 Visitantes del Perfil
-
-[![](https://visitcount.itsvg.in/api?id=FTAMBURRO&icon=2&color=6&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 
