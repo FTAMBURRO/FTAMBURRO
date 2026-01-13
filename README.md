@@ -1,11 +1,11 @@
 <p align='center'>
-  <img src='https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png' alt='Git' width='128' />
+  <img src='NOMBRE_DE_TU_IMAGEN.png' alt='Facundo Tamburro' width='200' />
 </p>
 
-# Facundo Tamburro
+<h1 align='center'>Facundo Tamburro</h1>
 
 <p align='center'>
-  Técnico en Programación de Computadores | Full Stack Developer | Buenos Aires, Argentina 🇦🇷
+  Programador Apasionado | Full Stack Developer | Buenos Aires, Argentina 🇦🇷
 </p>
 
 ---
@@ -154,7 +154,7 @@
 
 <p align="center">
   <a href="https://github.com/FTAMBURRO">
-    <img src="https://github-readme-stats.vercel.app/api?username=FTAMBURRO&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FTAMBURRO&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -166,7 +166,7 @@
 
 <p align="center">
   <a href="https://github.com/FTAMBURRO">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTAMBURRO&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide_title=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FTAMBURRO&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide_title=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -190,13 +190,9 @@
 
 ## 🤝 Conectá Conmigo
 
-<p align='left'>
+<p align='center'>
   <a href='https://www.linkedin.com/in/facundo-tamburro' target='_blank'>
-    <img align='center' src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png' alt='LinkedIn' height='40' width='40' />
-  </a>
-  &nbsp;&nbsp;
-  <a href='mailto:tamburrofacundo@gmail.com' target='_blank'>
-    <img align='center' src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' alt='Gmail' height='40' width='40' />
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png' alt='LinkedIn' height='50' width='50' />
   </a>
 </p>
 
