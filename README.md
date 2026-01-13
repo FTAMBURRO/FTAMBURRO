@@ -5,7 +5,7 @@
 <h1 align='center'>Facundo Tamburro</h1>
 
 <p align='center'>
-  Programador Apasionado | Full Stack Developer | Buenos Aires, Argentina 🇦🇷
+  Técnico en Programación de Computadores | Full Stack Developer | Buenos Aires, Argentina 🇦🇷
 </p>
 
 ---
