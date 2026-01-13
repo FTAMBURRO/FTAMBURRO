@@ -77,13 +77,6 @@
 
 ---
 
-### 🧩 Otras tecnologías y plataformas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" />
-</p>
-
 ---
 
 ## 🤝 Contacto
