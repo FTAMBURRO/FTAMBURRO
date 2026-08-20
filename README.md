@@ -1,17 +1,21 @@
 <p align="center">
-  <img src="logo.png" alt="Facundo Tamburro" width="180" />
+  <img src="logo.png" alt="Facundo Tamburro" width="170" />
 </p>
 
 <h1 align="center">Facundo Tamburro</h1>
 
 <p align="center">
-  Técnico en Programación de Computadores · Full Stack Developer<br/>
+  <strong>Full Stack Developer · Systems & Web Development</strong><br/>
+  Técnico en Programación de Computadores<br/>
   Buenos Aires, Argentina 🇦🇷
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/facundo-tamburro">
-    <img src="https://img.shields.io/badge/LinkedIn-Facundo%20Tamburro-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Facundo%20Tamburro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-web-facundo-tamburro.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Ver%20proyectos-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -19,84 +23,82 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🔭 Trabajo actualmente en la **Universidad de Buenos Aires**, desarrollando y manteniendo sistemas académicos y administrativos  
-- 👯 Busco colaborar en **proyectos de desarrollo de software**
-- 🌱 Aprendizaje continuo de nuevas tecnologías y buenas prácticas
-- 💬 Consultame sobre **backend, frontend, bases de datos y APIs**
-- 📍 Buenos Aires, Argentina
+- 🏛️ Actualmente trabajo en la **Universidad de Buenos Aires**, desarrollando y manteniendo sistemas académicos y administrativos utilizados en entornos reales
+- ⚙️ Participo en el desarrollo de **backend, frontend, bases de datos, reportes, integraciones y automatizaciones**
+- 🧩 Tengo experiencia manteniendo y evolucionando **software existente**, además de construir soluciones desde cero
+- 🌐 También desarrollo **sitios y productos web propios**, desde la idea hasta su publicación
+- 🤖 Utilizo herramientas de **IA aplicada al desarrollo** para investigar, prototipar, automatizar y mejorar mi flujo de trabajo
 
 ---
 
 ## 🛠️ Lenguajes y herramientas
 
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"/><br>Java</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60"/><br>C#</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="60"/><br>.NET</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48"/><br>C</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="60"/><br>CSS3</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br>React</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw" width="48"/><br>Spring Boot</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="48"/><br>WordPress</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="60"/><br>Nginx</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60"/><br>AWS</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"/><br>MySQL</td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="60"/><br>SQL Server</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"/><br>GitHub</td>
-    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
-  </tr>
-</table>
-
----
-## ⚡ Un poco más sobre lo que hago
+<h3 align="center">Backend & APIs</h3>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Developer+con+experiencia+real;Sistemas+acad%C3%A9micos+y+administrativos;Python+%7C+Java+%7C+.NET+%7C+SQL;APIs+REST+%7C+Docker+%7C+Arquitectura+de+servicios;WordPress+%7C+WooCommerce+%7C+Soluciones+productivas"
-    alt="Typing SVG"
+  <img src="https://skillicons.dev/icons?i=py,php,java,cs,dotnet,nodejs,fastapi,spring&theme=dark" alt="Backend y APIs" />
+</p>
+
+<p align="center">
+  Python · PHP · Java · C# · .NET · Node.js · FastAPI · Spring Boot
+</p>
+
+<h3 align="center">Frontend & Web</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap,wordpress&theme=dark" alt="Frontend y Web" />
+</p>
+
+<p align="center">
+  JavaScript · TypeScript · React · HTML · CSS · Tailwind · Bootstrap · WordPress
+</p>
+
+<h3 align="center">Datos, infraestructura & herramientas</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,nginx,aws,git,github,vscode,postman&theme=dark" alt="Datos, infraestructura y herramientas" />
+</p>
+
+<p align="center">
+  PostgreSQL · MySQL · MongoDB · Docker · Nginx · AWS · Git · GitHub · VS Code · Postman
+</p>
+
+<details>
+  <summary><strong>Otras tecnologías con las que trabajé</strong></summary>
+  <br/>
+  C · C++ · SQL Server · WooCommerce
+</details>
+
+---
+
+## ⚡ En pocas palabras
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Desarrollo+software+para+procesos+reales;Backend+%7C+Datos+%7C+APIs+%7C+Integraciones;Sistemas+acad%C3%A9micos+y+administrativos+en+producci%C3%B3n;Productos+web+desde+la+idea+hasta+el+deploy"
+    alt="Áreas de experiencia"
   />
 </p>
 
 ---
 
-## 🤝 Contacto
+## 🤝 Conectemos
+
+<p align="center">
+  Si querés conocer mejor mi trabajo, colaborar en un proyecto o conversar sobre una oportunidad:
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/facundo-tamburro">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-Escribime-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contactar por LinkedIn" />
+  </a>
+  <a href="https://portfolio-web-facundo-tamburro.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Ver%20mi%20trabajo-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver portfolio" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer" alt="" />
 </p>
