@@ -1,103 +1,33 @@
-<p align="center">
-  <img src="logo.png" alt="Facundo Tamburro" width="180" />
-</p>
+<p align="center"> <img src="logo.png" alt="Facundo Tamburro" width="150" /> </p> <h1 align="center">¡Hola! Soy Facundo Tamburro 👋</h1> <p align="center"> Técnico en Programación de Computadores · Full Stack Developer<br/> 📍 Buenos Aires, Argentina 🇦🇷 </p> <p align="center"> <a href="https://www.linkedin.com/in/facundo-tamburro"> <img src="https://img.shields.io/badge/LinkedIn-Facundo%20Tamburro-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=TU-USUARIO-GITHUB&style=flat&color=0A66C2&label=Visitas" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=650&lines=Backend+Developer+con+experiencia+real;Sistemas+acad%C3%A9micos+y+administrativos;Python+%7C+Java+%7C+.NET+%7C+SQL;APIs+REST+%7C+Docker+%7C+Arquitectura+de+servicios;WordPress+%7C+WooCommerce+%7C+Soluciones+productivas" alt="Typing SVG" /> </p>
+👨‍💻 Sobre mí
+🔭 Trabajo actualmente en la Universidad de Buenos Aires, desarrollando y manteniendo sistemas académicos y administrativos
+👯 Busco colaborar en proyectos de desarrollo de software
+🌱 Aprendizaje continuo de nuevas tecnologías y buenas prácticas
+💬 Consultame sobre backend, frontend, bases de datos y APIs
+🛠️ Stack tecnológico
 
-<h1 align="center">Facundo Tamburro</h1>
+Lenguajes
 
-<p align="center">
-  Técnico en Programación de Computadores · Full Stack Developer<br/>
-  Buenos Aires, Argentina 🇦🇷
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,java,php,csharp,c,cpp,js,ts" /></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/facundo-tamburro">
-    <img src="https://img.shields.io/badge/LinkedIn-Facundo%20Tamburro-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+Frontend
 
----
+<p><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" /></p>
 
-## 👨‍💻 Sobre mí
+Backend & Frameworks
 
-- 🔭 Trabajo actualmente en la **Universidad de Buenos Aires**, desarrollando y manteniendo sistemas académicos y administrativos  
-- 👯 Busco colaborar en **proyectos de desarrollo de software**
-- 🌱 Aprendizaje continuo de nuevas tecnologías y buenas prácticas
-- 💬 Consultame sobre **backend, frontend, bases de datos y APIs**
-- 📍 Buenos Aires, Argentina
+<p><img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,dotnet,wordpress" /></p>
 
----
+Bases de datos
 
-## 🛠️ Lenguajes y herramientas
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mssql,mongodb" /></p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"/><br>Java</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60"/><br>C#</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="60"/><br>.NET</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48"/><br>C</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
-  </tr>
+DevOps & Herramientas
 
-  <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="60"/><br>CSS3</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br>React</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw" width="48"/><br>Spring Boot</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="48"/><br>WordPress</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="60"/><br>Nginx</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60"/><br>AWS</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"/><br>MySQL</td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="60"/><br>SQL Server</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"/><br>GitHub</td>
-    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
-  </tr>
-</table>
-
----
-## ⚡ Un poco más sobre lo que hago
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Developer+con+experiencia+real;Sistemas+acad%C3%A9micos+y+administrativos;Python+%7C+Java+%7C+.NET+%7C+SQL;APIs+REST+%7C+Docker+%7C+Arquitectura+de+servicios;WordPress+%7C+WooCommerce+%7C+Soluciones+productivas"
-    alt="Typing SVG"
-  />
-</p>
-
----
-
-## 🤝 Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/facundo-tamburro">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="45" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
+<p><img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,github,vscode,postman" /></p>
+📊 Estadísticas de GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&layout=compact&hide_border=true" width="30%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO-GITHUB&hide_border=true" width="60%" /> </p>
+🚀 Proyectos destacados
+<!-- Reemplazá "nombre-repo-1" y "nombre-repo-2" por repos reales tuyos --> <p align="center"> <a href="https://github.com/TU-USUARIO-GITHUB/nombre-repo-1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO-GITHUB&repo=nombre-repo-1&theme=default&hide_border=true" /> </a> <a href="https://github.com/TU-USUARIO-GITHUB/nombre-repo-2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO-GITHUB&repo=nombre-repo-2&theme=default&hide_border=true" /> </a> </p>
+🤝 Contacto
+<p align="center"> <a href="https://www.linkedin.com/in/facundo-tamburro"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:tu-email@ejemplo.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/TU-USUARIO-GITHUB"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p>
