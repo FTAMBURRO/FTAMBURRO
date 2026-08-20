@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="logo.png" alt="Facundo Tamburro" width="170" />
+  <img src="logo.png" alt="Facundo Tamburro" width="180" />
 </p>
 
 <h1 align="center">Facundo Tamburro</h1>
 
 <p align="center">
-  <strong>Full Stack Developer · Systems & Web Development</strong><br/>
-  Técnico en Programación de Computadores<br/>
+  Técnico en Programación de Computadores · Full Stack Developer<br/>
   Buenos Aires, Argentina 🇦🇷
 </p>
 
@@ -17,21 +16,22 @@
   <a href="https://portfolio-web-facundo-tamburro.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Ver%20proyectos-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=FTAMBURRO&label=Visitas%20al%20perfil&color=0A66C2&style=flat-square" alt="Visitas al perfil" />
 </p>
 
----
+👨‍💻 Sobre mí
 
-## 👨‍💻 Sobre mí
+🔭 Trabajo actualmente en la Universidad de Buenos Aires, desarrollando y manteniendo sistemas académicos y administrativos
 
-- 🏛️ Actualmente trabajo en la **Universidad de Buenos Aires**, desarrollando y manteniendo sistemas académicos y administrativos utilizados en entornos reales
-- ⚙️ Participo en el desarrollo de **backend, frontend, bases de datos, reportes, integraciones y automatizaciones**
-- 🧩 Tengo experiencia manteniendo y evolucionando **software existente**, además de construir soluciones desde cero
-- 🌐 También desarrollo **sitios y productos web propios**, desde la idea hasta su publicación
-- 🤖 Utilizo herramientas de **IA aplicada al desarrollo** para investigar, prototipar, automatizar y mejorar mi flujo de trabajo
+👯 Busco colaborar en proyectos de desarrollo de software
 
----
+🌱 Aprendizaje continuo de nuevas tecnologías y buenas prácticas
 
-## 🛠️ Lenguajes y herramientas
+💬 Consultame sobre backend, frontend, bases de datos y APIs
+
+📍 Buenos Aires, Argentina
+
+🛠️ Lenguajes y herramientas
 
 <h3 align="center">Backend & APIs</h3>
 
@@ -69,36 +69,23 @@
   C · C++ · SQL Server · WooCommerce
 </details>
 
----
-
-## ⚡ En pocas palabras
+⚡ Un poco más sobre lo que hago
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Desarrollo+software+para+procesos+reales;Backend+%7C+Datos+%7C+APIs+%7C+Integraciones;Sistemas+acad%C3%A9micos+y+administrativos+en+producci%C3%B3n;Productos+web+desde+la+idea+hasta+el+deploy"
-    alt="Áreas de experiencia"
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Developer+con+experiencia+real;Sistemas+acad%C3%A9micos+y+administrativos;Python+%7C+Java+%7C+.NET+%7C+SQL;APIs+REST+%7C+Docker+%7C+Arquitectura+de+servicios;WordPress+%7C+WooCommerce+%7C+Soluciones+productivas"
+    alt="Typing SVG"
   />
 </p>
 
----
-
-## 🤝 Conectemos
-
-<p align="center">
-  Si querés conocer mejor mi trabajo, colaborar en un proyecto o conversar sobre una oportunidad:
-</p>
+🤝 Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/facundo-tamburro">
-    <img src="https://img.shields.io/badge/LinkedIn-Escribime-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contactar por LinkedIn" />
-  </a>
-  <a href="https://portfolio-web-facundo-tamburro.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Ver%20mi%20trabajo-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver portfolio" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="45" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
