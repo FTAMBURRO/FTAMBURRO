@@ -11,65 +11,72 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/facundo-tamburro">
-    <img src="https://img.shields.io/badge/LinkedIn-Facundo%20Tamburro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Facundo%20Tamburro-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-web-facundo-tamburro.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Ver%20proyectos-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=FTAMBURRO&label=Visitas%20al%20perfil&color=0A66C2&style=flat-square" alt="Visitas al perfil" />
 </p>
 
-👨‍💻 Sobre mí
+---
 
-🔭 Trabajo actualmente en la Universidad de Buenos Aires, desarrollando y manteniendo sistemas académicos y administrativos
+## 👨‍💻 Sobre mí
 
-👯 Busco colaborar en proyectos de desarrollo de software
+- 🔭 Trabajo actualmente en la **Universidad de Buenos Aires**, desarrollando y manteniendo sistemas académicos y administrativos  
+- 👯 Busco colaborar en **proyectos de desarrollo de software**
+- 🌱 Aprendizaje continuo de nuevas tecnologías y buenas prácticas
+- 💬 Consultame sobre **backend, frontend, bases de datos y APIs**
+- 📍 Buenos Aires, Argentina
 
-🌱 Aprendizaje continuo de nuevas tecnologías y buenas prácticas
+---
 
-💬 Consultame sobre backend, frontend, bases de datos y APIs
+## 🛠️ Lenguajes y herramientas
 
-📍 Buenos Aires, Argentina
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br>Python</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"/><br>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60"/><br>C#</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="60"/><br>.NET</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48"/><br>C</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
+  </tr>
 
-🛠️ Lenguajes y herramientas
+  <tr>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="60"/><br>CSS3</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br>React</td>
+  </tr>
 
-<h3 align="center">Backend & APIs</h3>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw" width="48"/><br>Spring Boot</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="48"/><br>WordPress</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="60"/><br>Nginx</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60"/><br>AWS</td>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,java,cs,dotnet,nodejs,fastapi,spring&theme=dark" alt="Backend y APIs" />
-</p>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="60"/><br>SQL Server</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"/><br>GitHub</td>
+    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
+  </tr>
 
-<p align="center">
-  Python · PHP · Java · C# · .NET · Node.js · FastAPI · Spring Boot
-</p>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
+  </tr>
+</table>
 
-<h3 align="center">Frontend & Web</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap,wordpress&theme=dark" alt="Frontend y Web" />
-</p>
-
-<p align="center">
-  JavaScript · TypeScript · React · HTML · CSS · Tailwind · Bootstrap · WordPress
-</p>
-
-<h3 align="center">Datos, infraestructura & herramientas</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,nginx,aws,git,github,vscode,postman&theme=dark" alt="Datos, infraestructura y herramientas" />
-</p>
-
-<p align="center">
-  PostgreSQL · MySQL · MongoDB · Docker · Nginx · AWS · Git · GitHub · VS Code · Postman
-</p>
-
-<details>
-  <summary><strong>Otras tecnologías con las que trabajé</strong></summary>
-  <br/>
-  C · C++ · SQL Server · WooCommerce
-</details>
-
-⚡ Un poco más sobre lo que hago
+---
+## ⚡ Un poco más sobre lo que hago
 
 <p align="center">
   <img 
@@ -78,13 +85,17 @@
   />
 </p>
 
-🤝 Contacto
+---
+
+## 🤝 Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/facundo-tamburro">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="45" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
