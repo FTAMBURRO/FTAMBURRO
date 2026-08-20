@@ -1,146 +1,102 @@
 <p align="center">
-  <img src="./logo.png" alt="Facundo Tamburro" width="112" />
+  <img src="logo.png" alt="Facundo Tamburro" width="180" />
 </p>
 
 <h1 align="center">Facundo Tamburro</h1>
 
 <p align="center">
-  <strong>FULL-STACK DEVELOPER · SOFTWARE BUILDER</strong>
-</p>
-
-<h3 align="center">Systems that run. Products people can use.</h3>
-
-<p align="center">
-  I build production software, APIs, data workflows, and web products —<br/>
-  from existing systems that need careful evolution to new ideas that need shipping.
+  Técnico en Programación de Computadores · Full Stack Developer<br/>
+  Buenos Aires, Argentina 🇦🇷
 </p>
 
 <p align="center">
-  <sub>Buenos Aires, Argentina · Available for remote opportunities</sub>
-</p>
-
-<p align="center">
-  <a href="https://portfolio-web-facundo-tamburro.vercel.app/"><strong>View portfolio ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/facundo-tamburro"><strong>Connect on LinkedIn ↗</strong></a>
+  <a href="https://www.linkedin.com/in/facundo-tamburro">
+    <img src="https://img.shields.io/badge/LinkedIn-Facundo%20Tamburro-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## What I do
+## 👨‍💻 Sobre mí
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>01 — Backend & Systems</strong><br/>
-      <sub>APIs, business logic, integrations, and software built for real operations.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>02 — Data & Databases</strong><br/>
-      <sub>SQL, data processing, reporting, validation, and database-driven workflows.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 — Web & Products</strong><br/>
-      <sub>Responsive interfaces and end-to-end digital products focused on usability.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 — Automation & AI</strong><br/>
-      <sub>Practical automation and AI-assisted workflows that make development faster.</sub>
-    </td>
-  </tr>
-</table>
-
-## About
-
-I'm a full-stack developer with a technical degree in computer programming. I currently work at the **University of Buenos Aires**, developing and maintaining academic and administrative software used in production.
-
-My work sits across backend development, databases, integrations, internal tools, and frontend delivery. I'm comfortable joining an existing codebase, understanding how it behaves, and improving it without losing sight of the people and processes that depend on it.
-
-Outside my day-to-day role, I build web products and explore the space between **engineering, product thinking, and visual design**.
-
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>CREUS · Academic Performance</h3>
-      <p>A platform that turns academic data into clear, usable information for tracking student performance.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Flask</code> <code>PostgreSQL</code> <code>Docker</code></p>
-      <a href="https://github.com/FTAMBURRO/creus-rendimiento"><strong>Repository ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Integrale VG</h3>
-      <p>A digital storefront and WhatsApp-first ordering experience for a healthy bakery.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Responsive UI</code></p>
-      <a href="https://integralevg.com.ar/"><strong>Live product ↗</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>TS Sopletes</h3>
-      <p>A modern product catalogue that makes industrial products easier to browse and understand.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Product UI</code></p>
-      <a href="https://ts-sopletes.vercel.app/"><strong>Live product ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Administrative Data Tooling</h3>
-      <p>Internal software for importing, validating, transforming, and exporting records used in real administrative workflows.</p>
-      <p><code>PHP</code> <code>PostgreSQL</code> <code>SQL</code> <code>Docker</code></p>
-      <sub>Private production work · University of Buenos Aires</sub>
-    </td>
-  </tr>
-</table>
-
-## Technical focus
-
-<table>
-  <tr>
-    <td width="22%"><strong>Core</strong></td>
-    <td>
-      TypeScript · JavaScript · React · Node.js · Python · PHP · PostgreSQL · SQL · Docker · Git
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Also worked with</strong></td>
-    <td>
-      Java · C# / .NET · FastAPI · Spring Boot · MySQL · SQL Server · MongoDB · Nginx · AWS · WordPress · Tailwind CSS · Bootstrap
-    </td>
-  </tr>
-</table>
-
-## Production experience
-
-### University of Buenos Aires
-
-**Full-stack development · Academic and administrative systems**
-
-- Develop and maintain software used in operational environments.
-- Build backend features, internal tools, reports, and data workflows.
-- Work extensively with PostgreSQL, SQL, validations, and data transformation.
-- Integrate and evolve existing systems while preserving business continuity.
-- Translate administrative and academic needs into maintainable software.
-
-> A large part of my professional work lives in private environments. The projects above are the public side of how I build: practical, product-minded, and focused on solving real problems.
-
-## How I work
-
-I use AI tools as part of a deliberate engineering workflow: exploring solutions, prototyping, debugging, automating repetitive work, and improving documentation. The output still goes through technical judgment, source review, and testing.
-
-I care about both sides of software: **the system behind the screen and the experience in front of it**.
+- 🔭 Trabajo actualmente en la **Universidad de Buenos Aires**, desarrollando y manteniendo sistemas académicos y administrativos  
+- 👯 Busco colaborar en **proyectos de desarrollo de software**
+- 🌱 Aprendizaje continuo de nuevas tecnologías y buenas prácticas
+- 💬 Consultame sobre **backend, frontend, bases de datos y APIs**
+- 📍 Buenos Aires, Argentina
 
 ---
 
-<h2 align="center">Let's build something useful.</h2>
+## 🛠️ Lenguajes y herramientas
+
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br>Python</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"/><br>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60"/><br>C#</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="60"/><br>.NET</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48"/><br>C</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="60"/><br>CSS3</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br>React</td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw" width="48"/><br>Spring Boot</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="48"/><br>WordPress</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="60"/><br>Nginx</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60"/><br>AWS</td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="60"/><br>SQL Server</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"/><br>GitHub</td>
+    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
+  </tr>
+</table>
+
+---
+## ⚡ Un poco más sobre lo que hago
 
 <p align="center">
-  I'm open to remote roles, product-focused teams, and collaborations where<br/>
-  backend, data, and user experience all matter.
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Developer+con+experiencia+real;Sistemas+acad%C3%A9micos+y+administrativos;Python+%7C+Java+%7C+.NET+%7C+SQL;APIs+REST+%7C+Docker+%7C+Arquitectura+de+servicios;WordPress+%7C+WooCommerce+%7C+Soluciones+productivas"
+    alt="Typing SVG"
+  />
 </p>
 
+---
+
+## 🤝 Contacto
+
 <p align="center">
-  <a href="https://portfolio-web-facundo-tamburro.vercel.app/"><strong>Explore my work</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/facundo-tamburro"><strong>Start a conversation</strong></a>
+  <a href="https://www.linkedin.com/in/facundo-tamburro">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="45" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
